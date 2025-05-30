@@ -7,7 +7,7 @@ extra.main_nav= true
 {{ anchor(title="Methodology")}}
 {% block_1c(title="Methodology" bg="white")%}
 
-TAPP’s methodology, designed by survey and sampling experts from University of Maryland, USA (UMD) and LMU Munich, Germany, is developed to gather the most robust and insightful data in the field of AI and digital privacy research.
+BERD’s methodology, designed by survey and sampling experts from University of Maryland, USA (UMD) and LMU Munich, Germany, is developed to gather the most robust and insightful data in the field of AI and digital privacy research.
 
 Our survey is a quantitative online questionnaire designed to gather insights on privacy and AI-related issues. It includes single/ multiple-choice and open-ended questions takes just 5 minutes to complete. 
 
