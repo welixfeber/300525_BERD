@@ -17,7 +17,7 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-site_title = "Transatlantic Privacy Perceptions"
+site_title = "Transatlantic BERD Perceptions"
 site_logo = "assets/logo_full.svg"
 site_logo_1 = "assets/tapp_logo_white_1.svg"
 site_logo_2 = "assets/tapp_logo_white_2.svg"
