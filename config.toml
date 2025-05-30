@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://privacyperceptions.org/"
+base_url = "https://welixfeber.github.io/300525_BERD/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
