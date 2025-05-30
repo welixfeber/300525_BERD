@@ -1,5 +1,5 @@
 +++
-title = """Exploring <span class="block md:inline"> AI and Privacy <span class="block md:inline"><span class='test' data-words='Challenges,Attitudes,Perceptions,Trends,Issues' data-shuffle='true'></span>
+title = """Reinforcement Learning for  <span class="block md:inline"> AI and Privacy <span class="block md:inline"><span class='test' data-words='Challenges,Attitudes,Perceptions,Trends,Issues' data-shuffle='true'></span>
 with Influential <span class="block md:inline">Voices and <span class="block md:inline">Experts"""
 sort_by = "weight"
 extra.full_hero = true
